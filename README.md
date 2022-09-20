@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
 <h3 align="center">A passionate mathematics engineer</h3>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I'm trying to augment myself for the better
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
