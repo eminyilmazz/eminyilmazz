@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
 <h3 align="center">A passionate mathematics engineer</h3>
 
-- 🌱 I'm trying to augment myself for the better
+- Currently working with Java & Spring and learning Go.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
